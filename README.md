@@ -1,5 +1,3 @@
-# CALCULADORA
-CALCULADORA
 import tkinter as tk
 import re
 
